@@ -1,4 +1,4 @@
-#End-to-end Data engineer project about IOT devices data
+# End-to-end Data engineer project about IOT devices data
 
 I will use many tools like Apache Zookeeper, Apache Kafka, Apache Spark, Docker, Python, AWS Cloud, AWS Glue, AWS Athena, AWS IAM, AWS Redshift and finally PowerBI to visualize data on Redshift.
 

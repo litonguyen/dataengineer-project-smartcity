@@ -1,0 +1,4 @@
+confluent-kafka==2.12.1
+py4j==0.10.9.7
+pyspark==3.5.7
+simplejson==3.20.2
